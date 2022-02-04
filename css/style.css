@@ -1,0 +1,48 @@
+/*Colors
+#038C4C
+#02733E
+#01401C
+#012611
+#0D0D0D
+*/
+
+nav ul{
+    background-color: #038C4C;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 47%;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+    text-align: center;
+  }
+
+li a{
+    color: #000000;
+    padding: 10px;
+    margin: 10px;
+}
+
+li a:hover {
+    background-color: #8d596f;
+}
+
+nav .active {
+    background-color: #ede3d9;
+}
+
+img:hover {
+    padding: 10px;
+    box-shadow: 5px 10px #0D0D0D;
+}
+
+img{
+    width: 200px;
+    padding: 8px;
+    margin: 10px;
+    border: 1px double #012611;
+}
